@@ -52,5 +52,10 @@
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-taro": "^1.1.4"
-  }
+  },
+  "config": {
+    "cz-customizable": {
+      "config": "test.js"
+    }
+   }
 }
