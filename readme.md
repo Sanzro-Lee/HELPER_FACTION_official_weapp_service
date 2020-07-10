@@ -45,6 +45,7 @@ https://helperfaction.github.io/docs
 
 |项目|版本|描述|
 --|--|--
-|客户端|v1.5|[叫到帮小程序服务端](https://www.huej.com)|
-|后台系统|v2.0|[叫到帮后台系统](https://www.huej.com)|
-|官方网站|v2.0|[叫到帮官网](https://www.huej.com)|
+|[客户端](https://github.com/Sanzro-Lee/HELPER_FACTION_official_weapp)|v1.5|叫到帮小程序服务端|
+|[后台系统](https://github.com/Sanzro-Lee/HELPER_FACTION_official_background_management_system)|v2.0|叫到帮后台系统|
+|[官方网站源码](https://github.com/Sanzro-Lee/HELPER_FACTION_official_website)|v2.0|叫到帮官网源代码|
+
