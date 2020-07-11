@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/logo/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg" width="200">
+        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/images/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg" width="200">
     </a>
 </p>
 
@@ -44,6 +44,10 @@ npm run build
 <!-- ## 文档
 
 https://helperfaction.github.io/docs -->
+
+## 设计图展示
+
+<img alt="设计图展示" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/images/%E5%8F%AB%E5%88%B0%E5%B8%AE_ui_design.png" width="500">
 
 ## 生态周边
 
