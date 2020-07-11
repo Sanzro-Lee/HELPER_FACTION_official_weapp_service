@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-    <img alt="brage" src="https://img.shields.io/github/license/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="140">
-    <img alt="brage" src="https://img.shields.io/github/forks/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="60">
+    <img alt="brage" src="https://img.shields.io/github/issues/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
+    <img alt="brage" src="https://img.shields.io/github/stars/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
+    <img alt="brage" src="https://img.shields.io/github/forks/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
+    <img alt="brage" src="https://img.shields.io/github/license/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
 </p>
 
 ## 简介
