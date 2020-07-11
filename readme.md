@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://helperfaction.github.io/">
-        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg?token=ALCWXPRIMUENKU6U7CZ2X5K7BFDDE" width:="400">
+        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg?token=ALCWXPRIMUENKU6U7CZ2X5K7BFDDE" width:="200">
     </a>
 </p>
 
@@ -15,9 +15,9 @@
 
 叫到帮小程序就是帮助大家解决 🧰 各种问题的，其中包括室内装修、电器维修、货物搬迁等问题，有这些问题就找叫到帮！
 
-## 扫码体验
+<!-- ## 扫码体验
 
-<img alt="叫到帮服务端二维码" src="https://github.com/helperfaction/image/Qrcode.png" width="500">
+<img alt="叫到帮服务端二维码" src="https://github.com/helperfaction/image/Qrcode.png" width="200"> -->
 
 ## 安装使用
 
