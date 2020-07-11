@@ -47,9 +47,8 @@ https://helperfaction.github.io/docs -->
 
 ## 生态周边
 
-|项目|版本|描述|
---|--|--
-|[客户端](https://github.com/Sanzro-Lee/HELPER_FACTION_official_weapp)|v1.5|叫到帮小程序服务端|
-|[后台系统](https://github.com/Sanzro-Lee/HELPER_FACTION_official_background_management_system)|v2.0|叫到帮后台系统|
-|[官方网站源码](https://github.com/Sanzro-Lee/HELPER_FACTION_official_website)|v2.0|叫到帮官网源代码|
-
+|项目|版本|描述|状态|
+|--|--|--|--|
+|[客户端](https://github.com/Sanzro-Lee/HELPER_FACTION_official_weapp)|v1.5|叫到帮小程序服务端|未完成❎|
+|[后台系统](https://github.com/Sanzro-Lee/HELPER_FACTION_official_background_management_system)|v2.0|叫到帮后台系统|未完成❎|
+|[官方网站源码](https://github.com/Sanzro-Lee/HELPER_FACTION_official_website)|v2.0|叫到帮官网源代码|已完成✅|
