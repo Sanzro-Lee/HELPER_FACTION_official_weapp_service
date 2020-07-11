@@ -8,6 +8,11 @@
     叫到帮的服务端小程序源码，使用了 mpx 框架，能够多端适配。
 </p>
 
+<p align="center">
+    <img alt="brage" src="https://img.shields.io/github/license/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="140">
+    <img alt="brage" src="https://img.shields.io/github/forks/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="60">
+</p>
+
 ## 简介
 
 叫到帮小程序就是帮助大家解决 🧰 各种问题的，其中包括室内装修、电器维修、货物搬迁等问题，有这些问题就找叫到帮！
