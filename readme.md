@@ -13,6 +13,7 @@
     <img alt="brage" src="https://img.shields.io/github/stars/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
     <img alt="brage" src="https://img.shields.io/github/forks/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
     <img alt="brage" src="https://img.shields.io/github/license/Sanzro-Lee/HELPER_FACTION_official_weapp_service" width="auto">
+    <img alt="brage" src="https://img.shields.io/twitter/url?style=social" width="auto">
 </p>
 
 ## 简介
@@ -53,6 +54,6 @@ https://helperfaction.github.io/docs -->
 
 |项目|版本|描述|状态|
 |--|--|--|--|
-|[客户端](https://github.com/Sanzro-Lee/HELPER_FACTION_official_weapp)|v1.5|叫到帮小程序服务端|未完成 ❎|
+|[客户端](https://github.com/Sanzro-Lee/HELPER_FACTION_official_weapp)|v1.5|叫到帮小程序客户端|未完成 ❎|
 |[后台系统](https://github.com/Sanzro-Lee/HELPER_FACTION_official_background_management_system)|v2.0|叫到帮后台系统|未完成 ❎|
 |[官方网站源码](https://github.com/Sanzro-Lee/HELPER_FACTION_official_website)|v2.0|叫到帮官网源代码|已完成 ✅|
