@@ -1,18 +1,12 @@
 <p align="center">
-    <a href="https://helperfaction.github.io/">
-        <img alt="叫到帮" src="https://i.ibb.co/9bGjNCw/LOGO-01.jpg" width="200">
+    <a href="#">
+        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/logo/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg" width="200">
     </a>
 </p>
-
-
-<!-- https://ibb.co/qNxwdP0 -->
 
 <p align="center">
     叫到帮的服务端小程序源码，使用了 mpx 框架，能够多端适配。
 </p>
-
-<!-- ![test-status](https://github.com/helperfaction/weapp/test/badge.svg)
-![docs-status](https://github.com/helperfaction/weapp/docs/badge.svg) -->
 
 ## 简介
 
@@ -40,9 +34,9 @@ npm run build
 
 使用小程序开发者工具打开项目文件夹 📁 下dist中对应平台的文件夹 📁 即可预览效果。
 
-## 文档
+<!-- ## 文档
 
-https://helperfaction.github.io/docs
+https://helperfaction.github.io/docs -->
 
 ## 生态周边
 
