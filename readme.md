@@ -1,8 +1,11 @@
 <p align="center">
     <a href="https://helperfaction.github.io/">
-        <img alt="叫到帮" src="https://raw.githubusercontent.com/Sanzro-Lee/HELPER_FACTION_official_weapp_service/master/%E5%8F%AB%E5%88%B0%E5%B8%AE_logo_service.jpg?token=ALCWXPRIMUENKU6U7CZ2X5K7BFDDE" width="200">
+        <img alt="叫到帮" src="https://ibb.co/wYCVT5Q" width="500">
     </a>
 </p>
+
+
+<!-- https://ibb.co/qNxwdP0 -->
 
 <p align="center">
     叫到帮的服务端小程序源码，使用了 mpx 框架，能够多端适配。
