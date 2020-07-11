@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://helperfaction.github.io/">
-        <img alt="叫到帮" src="https://ibb.co/wYCVT5Q" width="500">
+        <img alt="叫到帮" src="https://i.ibb.co/9bGjNCw/LOGO-01.jpg" width="200">
     </a>
 </p>
 
