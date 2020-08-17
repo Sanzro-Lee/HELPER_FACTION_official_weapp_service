@@ -26,6 +26,9 @@
 ## 安装使用
 
 ```bash
+# 安装mpx脚手架工具
+npm i -g @mpxjs/cli
+
 # 进入项目
 cd HELPER_FACTION_official_weapp_service
 
@@ -39,7 +42,7 @@ npm run watch
 npm run build
 ```
 
-```
+```bash
 npm script规范 [build|watch]:[dev|prod]:[cross|web|none]
 
 build默认prod，watch默认dev。另单独提供了build:dev和watch:prod，用于单次构建分析看未压缩代码分析问题和持续压缩代码便于大体积项目真机调试。
